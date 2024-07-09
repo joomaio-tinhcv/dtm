@@ -20,7 +20,7 @@ error_reporting(E_ALL & ~E_WARNING);
 
 require ROOT_PATH. 'vendor/autoload.php';
 
-$app = new \SPT\Application\SDM(
+$app = new \SPT\Application\Web(
     new \SPT\Container\Joomla,
     PUBLIC_PATH,
     APP_PATH,
