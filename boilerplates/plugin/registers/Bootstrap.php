@@ -1,5 +1,5 @@
 <?php
-namespace App\_solution_\_plugin_\registers;
+namespace App\__solution__\__plugin__\registers;
 
 use SPT\Application\IApp;
 use SPT\File;

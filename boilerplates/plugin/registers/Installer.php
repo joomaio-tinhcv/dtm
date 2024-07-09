@@ -1,5 +1,5 @@
 <?php
-namespace App\_solution_\_plugin_\registers;
+namespace App\__solution__\__plugin__\registers;
 
 use SPT\Application\IApp;
 
@@ -9,9 +9,9 @@ class Installer
     {
         return [
             'tags' => [],
-            'solution' => '_solution_',
-            'folder_name' => '_plugin_',
-            'name' => '_plugin_',
+            'solution' => '__solution__',
+            'folder_name' => '__plugin__',
+            'name' => '__plugin__',
             'description' => '',
             'dependencies' => []
         ];
